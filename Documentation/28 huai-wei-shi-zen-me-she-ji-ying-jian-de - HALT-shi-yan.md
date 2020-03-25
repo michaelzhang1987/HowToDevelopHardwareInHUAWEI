@@ -7,7 +7,7 @@
 
 HALT（Highly Accelerated Life Test）的全称是高加速寿命试验，是一种试验方法（思想），采用的环境应力比加速试验更加严酷。主要应用于产品开发阶段，它能以较短的时间促使产品的设计和工艺缺陷暴露出来，从而为我们做设计改进，提升产品可靠性提供依据。
 
-![华为是怎样开发硬件的 之二十八——HALT试验](http://p1.pstatp.com/large/pgc-image/e19054d3dedb43bf9d9625046b49101a)
+![](http://p1.pstatp.com/large/pgc-image/e19054d3dedb43bf9d9625046b49101a)
 
 **HALT试验其实是硬件工程比较恐惧的试验：因为往往实验过程中，会出现不少问题。会有一种深陷泥潭不能自拔的感觉。**
 
@@ -84,7 +84,7 @@ HALT试验中的试验项目分为以下各类，试验中按下面的顺序进�
 HALT试验的实际试验过程
 -------------
 
-![华为是怎样开发硬件的 之二十八——HALT试验](http://p1.pstatp.com/large/pgc-image/175e33b7e68246c3b236b7d573ba38bf)
+![](http://p1.pstatp.com/large/pgc-image/175e33b7e68246c3b236b7d573ba38bf)
 
 1、搭建试验环境
 

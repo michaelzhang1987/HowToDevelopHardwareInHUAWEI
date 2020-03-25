@@ -3,7 +3,7 @@
 
 原创 硬件十万个为什么 2020-03-16 12:21:01
 
-![华为是怎样开发硬件的  之八——兄弟文化](http://p3.pstatp.com/large/pgc-image/b5bbfcb329bb4a42bda89b3cc4913f11)
+![](http://p3.pstatp.com/large/pgc-image/b5bbfcb329bb4a42bda89b3cc4913f11)
 
   
 

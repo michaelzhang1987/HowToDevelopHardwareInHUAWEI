@@ -47,9 +47,9 @@
 
 **所以问题跟踪表的使用逻辑才是重中之重：**
 
-![华为是怎样开发硬件的  之二十五 ——问题跟踪](http://p3.pstatp.com/large/pgc-image/f4beb3cb7b8540a6b21acdf6229d23fd)
+![](http://p3.pstatp.com/large/pgc-image/f4beb3cb7b8540a6b21acdf6229d23fd)
 
-![华为是怎样开发硬件的  之二十五 ——问题跟踪](http://p9.pstatp.com/large/pgc-image/f3a37efbc19e40d5bb57d3e7b849f3e4)
+![](http://p9.pstatp.com/large/pgc-image/f3a37efbc19e40d5bb57d3e7b849f3e4)
 
 “对员工的监管” 应该转变为 “员工的自我实现，与绩效辅导。”
 
@@ -71,7 +71,7 @@
 
 燃尽图（burn downchart）是在项目完成之前，对需要完成的工作的一种可视化表示。燃尽图有一个Y轴（工作）和X轴（时间）。理想情况下，该图表是一个向下的曲线，随着剩余工作的完成，“烧尽”至零。燃尽图向项目组成员和企业主提供工作进展的一个公共视图。
 
-![华为是怎样开发硬件的  之二十五 ——问题跟踪](http://p9.pstatp.com/large/pgc-image/d0a05314a4be4944924aaef1ea783f4d)
+![](http://p9.pstatp.com/large/pgc-image/d0a05314a4be4944924aaef1ea783f4d)
 
 2、计划执行的严谨性，以前我在国有企业，很明显的，计划是没有严谨性的。老专家教育我说：“航空设备的计划都是空的，拖曳设备的计划都是拖的”。
 
@@ -115,24 +115,24 @@ SMART原则：
 
 员工自动自发的进行汇报，自行组织讲解，不是一朝一夕能够达成的，这个需要很长时间的磨合和训练。很多很多的动作，形成一个习惯，很多很多的习惯，形成一种传统，很多很多传统，形成一种文化。一个组织的文化，需要领导者带头，全体人员共同努力。
 
-![华为是怎样开发硬件的  之二十五 ——问题跟踪](http://p1.pstatp.com/large/pgc-image/22a8e9a518904f7e976bb6ce8b2cc653)
+!(http://p1.pstatp.com/large/pgc-image/22a8e9a518904f7e976bb6ce8b2cc653)
 
   
 个人建议的普通员工的任务跟踪表的组成部分，如上图所示。
 
-![华为是怎样开发硬件的  之二十五 ——问题跟踪](http://p3.pstatp.com/large/pgc-image/969866b0946b4619866eb54cdd1898fb)
+![](http://p3.pstatp.com/large/pgc-image/969866b0946b4619866eb54cdd1898fb)
 
   
 周例会，关注TOP问题。如上图
 
-![华为是怎样开发硬件的  之二十五 ——问题跟踪](http://p1.pstatp.com/large/pgc-image/06d5b7c9b79245ea943c33105fa2b322)
+![](http://p1.pstatp.com/large/pgc-image/06d5b7c9b79245ea943c33105fa2b322)
 
   
 每天只做重要的事情，如上图。
 
   
 
-![华为是怎样开发硬件的  之二十五 ——问题跟踪](http://p3.pstatp.com/large/pgc-image/86ac001720034ff499e0f80a9dfdd9e2)
+![](http://p3.pstatp.com/large/pgc-image/86ac001720034ff499e0f80a9dfdd9e2)
 
   
 任务跟踪记录，要符合SMART原则。

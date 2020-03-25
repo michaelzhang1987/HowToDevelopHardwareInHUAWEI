@@ -5,7 +5,7 @@
 
 关于“降额的概念”，有些工程师，可能没有涉及过这样的概念。我讲个故事，大家就都理解了。我上初中时，自行车失窃的现象比较普遍。所以家里人都把自行车扛上楼，然后用软锁锁在楼道里面，以防止自行车失窃。
 
-![华为是怎样开发硬件的 之二十六 ——降额设计](http://p3.pstatp.com/large/pgc-image/7ae74b82b5d24b8c9940bd225f67adb2)
+![](http://p3.pstatp.com/large/pgc-image/7ae74b82b5d24b8c9940bd225f67adb2)
 
 我家住在六楼。我每天骑车放学回家，就自己把一辆大自行车，扛到六楼。
 
@@ -81,7 +81,7 @@
 
 厂家额定环境温度为70℃，低于这个温度的时候，直接按照60%进行降额。当超过这个温度的时候，额定曲线是一个斜线。降额曲线也按照，最大温度的降额为121℃，然后绘制一条红色的斜线，按照斜线进行降额。
 
-![华为是怎样开发硬件的 之二十六 ——降额设计](http://p1.pstatp.com/large/pgc-image/5ffac97143ff492d84543c5edbfd6bae)
+![](http://p1.pstatp.com/large/pgc-image/5ffac97143ff492d84543c5edbfd6bae)
 
 瞬态降额 只要时间足够短，电阻可以承受比额定功率大得多的瞬态功率。要参考厂家资料中的最高过负荷电压参数，再在此基础上降额。
 
@@ -89,11 +89,11 @@
 
 单脉冲：
 
-![华为是怎样开发硬件的 之二十六 ——降额设计](http://p1.pstatp.com/large/pgc-image/fb3cf1991c634e648a3bd6d5fb25c9e3)
+![](http://p1.pstatp.com/large/pgc-image/fb3cf1991c634e648a3bd6d5fb25c9e3)
 
 多脉冲：
 
-![华为是怎样开发硬件的 之二十六 ——降额设计](http://p9.pstatp.com/large/pgc-image/a311bfcd41a749e1b285573c02474c56)
+![](http://p9.pstatp.com/large/pgc-image/a311bfcd41a749e1b285573c02474c56)
 
 具体的原理，本文不赘述，本文重点强调降额设计的思路。后续继续完善“电阻降额规范”。
 
@@ -115,4 +115,4 @@
 
 **降额只是“可靠性设计的一部分”，但是也是很重要的一部分。**
 
-![华为是怎样开发硬件的 之二十六 ——降额设计](http://p1.pstatp.com/large/pgc-image/3081076a268247468312dcf8ddd4d46f)
+![](http://p1.pstatp.com/large/pgc-image/3081076a268247468312dcf8ddd4d46f)

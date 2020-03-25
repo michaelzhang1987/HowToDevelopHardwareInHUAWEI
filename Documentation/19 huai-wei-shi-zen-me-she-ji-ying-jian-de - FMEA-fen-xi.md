@@ -107,7 +107,7 @@ FMEA的分析方法：
 
   
 
-![华为是怎样开发硬件的  之十九——FMEA分析](http://p1.pstatp.com/large/pgc-image/e5b67e06565044ce907be3960bcc9c8c)
+![](http://p1.pstatp.com/large/pgc-image/e5b67e06565044ce907be3960bcc9c8c)
 
 **严酷等级：**
 
@@ -123,13 +123,13 @@ FMEA的分析方法：
 
 清晰功能模块之间的相互关系，主要输入/输出信号。
 
-![华为是怎样开发硬件的  之十九——FMEA分析](http://p1.pstatp.com/large/pgc-image/262e96d582b14f619f1e9061dcfcf83f)
+![](http://p1.pstatp.com/large/pgc-image/262e96d582b14f619f1e9061dcfcf83f)
 
   
 
 **参考的FMEA表格：**
 
-![华为是怎样开发硬件的  之十九——FMEA分析](http://p3.pstatp.com/large/pgc-image/94cc07288e3d41b989d2120594da1ff2)
+![](http://p3.pstatp.com/large/pgc-image/94cc07288e3d41b989d2120594da1ff2)
 
 **我曾经开发过程中，也非常的急于出成果。但是正真做成硬件精品，往往忽略一些功能设计之外的考虑，最后导致返工。**
 

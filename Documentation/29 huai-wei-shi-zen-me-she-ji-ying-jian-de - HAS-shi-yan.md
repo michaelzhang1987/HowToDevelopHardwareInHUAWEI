@@ -11,7 +11,7 @@ HASS应用于产品的生产阶段，以确保所有在HALT中找到的改进措
 
 根据美国GE的统计调查，对于全新设计的产品在市场出现失效的比重分配发现因设计缺陷造成失效比例占33%，零件选用不当占34%，制程缺陷则占33%。Honeywell对于成熟的产品进行市场失效统计调查发现零件不良造成失效比例占60%，制程缺陷则占40%。因此控制量产时零件与生产制程变异才可有效控制RMA比例。一般而言，当产品在市场出现失效时，通常已经数百或数千产品已经投入市场。因此，利用产品在设计阶段执行HALT的数据经由验证决定适当应力水平并转换为HASS（以及HASA）手法，进行量产质量控制。
 
-![华为是怎样开发硬件的 之二十九  ——HASS试验](http://p1.pstatp.com/large/pgc-image/ab1f7875a5d14e7fba5b5e492add2cd7)
+![](http://p1.pstatp.com/large/pgc-image/ab1f7875a5d14e7fba5b5e492add2cd7)
 
 上图为：典型的产品进行的HASS试验
 
@@ -101,7 +101,7 @@ HASS试验的收益利用高加速环境应力可快速将产品潜在缺陷激�
 
 HASS试验设备要求
 
-![华为是怎样开发硬件的 之二十九  ——HASS试验](http://p1.pstatp.com/large/pgc-image/2ec1646f48b943f6a41238e4c129724e)
+![](http://p1.pstatp.com/large/pgc-image/2ec1646f48b943f6a41238e4c129724e)
 
 典型的综合环境应力试验曲线图（极限情况）
 
@@ -141,4 +141,4 @@ HASS和HALT的区别
 
 5、HALT试验和HASS试验对失效率优化，处于器件生命周期的不同阶段。
 
-![华为是怎样开发硬件的 之二十九  ——HASS试验](http://p3.pstatp.com/large/pgc-image/c23681ce6a1e4d658dbe081c4e3c5da4)
+![](http://p3.pstatp.com/large/pgc-image/c23681ce6a1e4d658dbe081c4e3c5da4)
