@@ -1,2 +1,2 @@
-# HowToDevelopHardwareInHUAWEI
-华为是怎样开发硬件的-硬件十万个为什么
+# MyGrowthOfEmbeddedRoad
+从入职到架构师——我的嵌入式软件成长之路
